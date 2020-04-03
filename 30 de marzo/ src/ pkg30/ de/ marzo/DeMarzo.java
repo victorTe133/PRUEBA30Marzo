@@ -20,6 +20,10 @@ public class DeMarzo {
         Sistema . a cabo . println ( " terrero zona 4" );
         Sistema . a cabo . println ( " 59032560 " );
         
+       System.out.println("Nombre: Moises Natanael Recinos Agustin");
+       System.out.println("Direccion: Huehuetenango Zona 4");
+       System.out.println("Telefono: 33299869");
+        
     }
     
 }
